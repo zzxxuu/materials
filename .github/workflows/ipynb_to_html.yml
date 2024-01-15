@@ -29,10 +29,7 @@ jobs:
         run: pip install nbconvert
   
       - name: Convert all ipynb files to html (and delete ipynb files)
-        run: find . -name '*.ipynb' -type f -execdir jupyter nbconvert --template classic --to html {} \; -execdir rm {} \;
-
-      - name: Push notebooks folder to the build branch
-        uses: s0/git-publish-subdir-action@develop
+        run: find . -name '*.ipynb' -type f -execdir jupyter nbconvert --output-dir='./docs' --template classic --to html {} \; -execdir rm {} \;
         env:
           REPO: self
           FOLDER: notebooks # The directory where your assets are generated
