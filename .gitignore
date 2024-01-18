@@ -1,0 +1,6 @@
+*
+!.github
+!.github/*
+!data
+!data/*
+!notebooks/*.ipynb
