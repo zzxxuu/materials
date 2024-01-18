@@ -1,0 +1,276 @@
+name,fav_color,math183_excited,seat_comfort,year,major,wi24_credits,time_reading,time_physical,time_online,sex
+student 1,Purple,Very excited,Meh,3,Engineering,16,1.0,0.5,8.0,M
+student 2,Pink,Very excited,Meh,4,Social Sciences,20,0.5,1.0,1.5,F
+student 3,black,Super stoked,Meh,3,Data Science,16,0.0,2.0,2.0,M
+student 4,,Slightly excited,Meh,3,Data Science,12,0.1,1.0,2.0,M
+student 5,red,Slightly excited,Meh,4,Engineering,16,0.0,2.0,3.0,M
+student 6,white,Not at all excited,Awful,3,Data Science,16,1.0,1.0,50.0,F
+student 7,skyblue,Very excited,Bad,2,Data Science,12,8.0,1.0,1.0,F
+student 8,Blue,Slightly excited,Bad,>4,Engineering,16,1.0,2.0,3.0,M
+student 9,Blue,Slightly excited,Meh,3,Social Sciences,16,0.0,3.0,2.0,M
+student 10,Blue,Very excited,Pretty good,3,Physical Sciences,16,0.5,1.0,4.0,M
+student 11,green,Very excited,Bad,4,Social Sciences,18,1.0,2.0,1.0,F
+student 12,red,Slightly excited,Meh,4,Biological Sciences,20,0.5,1.0,4.0,M
+student 13,Red,Slightly excited,Meh,3,Data Science,22,0.0,2.0,5.0,M
+student 14,grey,Slightly excited,Pretty good,3,Data Science,15,3.0,0.5,0.0,F
+student 15,black,Very excited,Meh,3,Data Science,18,2.0,1.0,5.0,F
+student 16,Red,Super stoked,Super comfy,4,Data Science,16,3.0,2.0,10.0,M
+student 17,Blue,Slightly excited,Meh,3,Social Sciences,16,1.0,10.0,21.0,M
+student 18,Yellow,Very excited,Meh,4,Social Sciences,16,0.0,1.0,4.0,F
+student 19,Green,Slightly excited,Meh,>4,Biological Sciences,4,1.0,2.0,5.0,M
+student 20,Ocean Blue,Very excited,Meh,4,Data Science,16,0.0,1.0,8.0,M
+student 21,Purple,Slightly excited,Bad,4,Engineering,12,1.0,2.0,4.0,M
+student 22,Purple,Super stoked,Pretty good,4,Engineering,12,0.0,3.0,2.0,M
+student 23,Black,Not at all excited,Bad,3,Data Science,20,0.0,0.5,12.0,M
+student 24,Lavender,Slightly excited,Pretty good,3,Data Science,16,1.0,0.5,6.0,M
+student 25,Aquamarine,Very excited,Bad,3,Data Science,12,0.0,1.0,6.0,M
+student 26,Blue,Not at all excited,Bad,3,Data Science,20,0.0,0.0,10.0,M
+student 27,White,Very excited,Meh,3,Data Science,18,1.0,0.5,3.0,M
+student 28,black,Slightly excited,Meh,3,Engineering,20,0.0,2.0,7.0,M
+student 29,Lavender,Slightly excited,Bad,4,Social Sciences,16,2.0,2.0,2.0,F
+student 30,Blue,Slightly excited,Meh,4,Data Science,16,1.0,2.0,3.0,M
+student 31,Purple/Lavender,Super stoked,Meh,4,Social Sciences,20,0.0,2.0,4.0,F
+student 32,Green,Very excited,Bad,3,Data Science,12,2.0,1.0,3.0,F
+student 33,Black,Very excited,Meh,4,Data Science,16,0.0,4.0,2.0,M
+student 34,Yellow,Slightly excited,Bad,3,Social Sciences,16,1.0,1.0,4.0,M
+student 35,white,Slightly excited,Bad,4,Social Sciences,16,0.0,5.0,1.0,M
+student 36,Green,Very excited,Bad,3,Data Science,12,0.0,2.0,3.0,F
+student 37,Blue,Very excited,Meh,4,Social Sciences,12,0.0,4.0,1.0,M
+student 38,Black,Slightly excited,Meh,3,Physical Sciences,18,0.0,40.0,8.0,F
+student 39,black,Very excited,Meh,3,Data Science,20,0.0,0.0,2.0,F
+student 40,Blue.,Very excited,Meh,3,Engineering,20,2.0,3.0,3.0,F
+student 41,Yellow,Very excited,Pretty good,4,Engineering,28,5.0,5.0,10.0,F
+student 42,green,Slightly excited,Awful,3,Biological Sciences,16,0.0,1.5,4.0,F
+student 43,Blue,Very excited,Pretty good,4,Data Science,20,1.0,1.0,3.0,M
+student 44,Blue,Slightly excited,Pretty good,3,Data Science,20,0.0,1.0,5.0,M
+student 45,Beige,Slightly excited,Meh,4,Engineering,12,0.0,0.0,5.0,F
+student 46,purple,Very excited,Pretty good,3,Data Science,16,0.0,2.0,21.0,M
+student 47,Forest Green,Very excited,Bad,4,Social Sciences,20,0.1,2.0,4.0,M
+student 48,Blue,Very excited,Pretty good,4,Data Science,16,0.0,0.5,4.0,M
+student 49,Blue,Slightly excited,Meh,4,Engineering,12,3.0,2.0,1.0,M
+student 50,Blue,Slightly excited,Meh,3,Physical Sciences,16,1.0,1.5,4.0,M
+student 51,Turquoise,Very excited,Meh,4,Engineering,16,4.0,1.0,2.0,M
+student 52,Forest Green,Slightly excited,Meh,4,Physical Sciences,16,1.0,3.0,12.0,M
+student 53,Forest Green,Super stoked,Bad,3,Social Sciences,12,0.0,1.25,5.0,M
+student 54,blazck,Slightly excited,Meh,3,Data Science,12,0.083,3.0,1.0,M
+student 55,Green,Super stoked,Meh,4,Data Science,20,0.0,2.0,1.0,M
+student 56,Blue,Very excited,Meh,3,Data Science,16,2.0,1.0,2.0,M
+student 57,Black,Very excited,Super comfy,3,Data Science,20,2.0,1.0,5.0,M
+student 58,Blue,Super stoked,Pretty good,4,Engineering,9,0.0,1.0,6.0,M
+student 59,pink,Slightly excited,Pretty good,3,Physical Sciences,16,1.0,0.5,5.0,F
+student 60,Red,Slightly excited,Meh,3,Social Sciences,16,1.0,3.0,4.0,M
+student 61,green,Slightly excited,Awful,3,Data Science,12,0.0,0.5,4.0,M
+student 62,blue !,Very excited,Meh,3,Social Sciences,20,4.0,2.0,5.0,F
+student 63,Black,Very excited,Pretty good,3,Arts & Humanities,20,0.5,1.0,3.0,F
+student 64,red,Very excited,Awful,3,Data Science,20,0.0,0.0,10.0,
+student 65,red,Slightly excited,Meh,3,Data Science,16,0.0,3.0,2.0,M
+student 66,Black,Slightly excited,Meh,4,Engineering,20,0.5,1.0,5.0,F
+student 67,Pink,Very excited,Meh,4,Data Science,12,1.0,1.0,4.0,F
+student 68,black,Slightly excited,Meh,3,Physical Sciences,16,1.0,1.0,3.0,M
+student 69,white,Very excited,Meh,3,Data Science,20,0.5,0.5,3.0,F
+student 70,Pink,Slightly excited,Pretty good,4,Engineering,18,2.0,1.0,8.0,F
+student 71,Blue,Slightly excited,Meh,2,Data Science,12,0.5,0.5,18.0,M
+student 72,Blue,Slightly excited,Meh,3,Engineering,16,0.0,0.0,16.0,M
+student 73,red,Not at all excited,Meh,3,Engineering,16,0.0,1.0,2.0,M
+student 74,Blue,Slightly excited,Bad,3,Data Science,16,0.0,0.0,9.0,F
+student 75,pink,Slightly excited,Meh,3,Social Sciences,16,3.0,4.0,4.0,M
+student 76,Blue,Very excited,Meh,4,Engineering,16,2.0,2.0,5.0,F
+student 77,Grey,Super stoked,Pretty good,3,Social Sciences,20,2.0,2.0,5.0,M
+student 78,Black,Super stoked,Super comfy,3,Physical Sciences,20,1.0,1.0,2.0,M
+student 79,Blue,Very excited,Pretty good,4,Physical Sciences,16,2.0,2.0,8.0,M
+student 80,green,Slightly excited,Bad,4,Engineering,16,0.0,0.5,12.0,F
+student 81,Blue,Slightly excited,Meh,3,Data Science,16,0.0,2.0,4.0,M
+student 82,Sky Blue,Very excited,Pretty good,4,Engineering,20,1.0,1.0,5.0,M
+student 83,red,Slightly excited,Pretty good,4,Data Science,16,1.0,0.0,6.0,M
+student 84,Blue,Super stoked,Bad,4,Biological Sciences,16,0.5,1.0,6.0,M
+student 85,Pastel Blue,Slightly excited,Meh,>4,Data Science,12,2.0,2.5,1.0,M
+student 86,Green,Very excited,Meh,4,Engineering,12,0.0,2.0,3.0,M
+student 87,orange,Slightly excited,Bad,3,Data Science,16,0.0,2.0,14.0,M
+student 88,Orange,Slightly excited,Meh,4,Physical Sciences,16,0.5,0.5,2.0,M
+student 89,black,Very excited,Pretty good,4,Physical Sciences,12,0.0,3.0,3.0,M
+student 90,Gold,Very excited,Awful,3,Data Science,12,2.5,2.0,0.0,M
+student 91,Pink,Slightly excited,Pretty good,3,Data Science,20,1.0,1.0,3.0,F
+student 92,Dark Blue/Purple,Slightly excited,Meh,3,Physical Sciences,16,1.0,3.0,1.0,M
+student 93,lavendar,Very excited,Meh,4,Engineering,12,1.0,0.0,1.0,M
+student 94,turquoise,Very excited,Pretty good,3,Data Science,12,1.0,2.0,2.0,M
+student 95,purple,Very excited,Pretty good,3,Physical Sciences,20,2.0,0.0,2.0,F
+student 96,pink,Slightly excited,Meh,3,Data Science,16,2.0,2.0,5.0,F
+student 97,purple,Slightly excited,Bad,3,Data Science,16,0.0,1.0,3.0,M
+student 98,Blue,Slightly excited,Meh,4,Engineering,12,0.0,1.0,8.0,M
+student 99,Blue,Very excited,Meh,4,Physical Sciences,15,1.0,1.0,1.0,
+student 100,Brown,Very excited,Meh,3,Data Science,17,0.0,2.0,4.0,M
+student 101,red,Very excited,Pretty good,3,Data Science,8,1.0,1.0,1.0,F
+student 102,green,Very excited,Pretty good,4,Arts & Humanities,20,0.0,0.0,12.0,M
+student 103,purple,Super stoked,Pretty good,4,Biological Sciences,25,1.0,1.0,2.0,F
+student 104,Blue,Very excited,Meh,2,Data Science,20,0.0,0.0,3.0,M
+student 105,Blue,Very excited,Pretty good,3,Data Science,16,0.5,0.5,6.0,M
+student 106,red,Very excited,Pretty good,4,Data Science,10,7.0,7.0,5.0,M
+student 107,Blue,Slightly excited,Meh,3,Data Science,16,0.0,2.0,4.0,M
+student 108,white,Very excited,Meh,3,Data Science,16,1.0,2.0,1.0,M
+student 109,orange,Slightly excited,Meh,3,Data Science,21,0.0,2.0,8.0,M
+student 110,green,Slightly excited,Meh,4,Social Sciences,16,1.0,0.5,2.0,F
+student 111,Blue,Slightly excited,Pretty good,3,Physical Sciences,16,1.0,2.0,4.0,F
+student 112,grey,Slightly excited,Meh,4,Engineering,16,2.0,1.0,3.0,M
+student 113,Blue,Very excited,Meh,>4,Social Sciences,16,2.0,3.0,15.0,M
+student 114,Blue,Slightly excited,Bad,3,Physical Sciences,16,0.0,0.0,3.0,F
+student 115,Blue,Super stoked,Pretty good,4,Social Sciences,8,0.0,0.0,10.0,M
+student 116,black,Slightly excited,Pretty good,4,Data Science,20,0.0,1.0,3.0,M
+student 117,silver,Very excited,Meh,3,Physical Sciences,24,1.0,1.0,2.0,F
+student 118,white,Super stoked,Meh,3,Engineering,16,0.0,2.0,10.0,M
+student 119,Green,Slightly excited,Meh,4,Data Science,4,0.0,2.0,12.0,M
+student 120,Purple,Slightly excited,Bad,3,Social Sciences,12,0.0,1.0,2.0,M
+student 121,Black,Slightly excited,Meh,4,Social Sciences,16,0.0,0.0,6.0,M
+student 122,Black,Slightly excited,Meh,2,Data Science,16,3.0,3.0,4.0,M
+student 123,rice white,Slightly excited,Pretty good,3,Social Sciences,24,0.0,0.7,4.0,F
+student 124,Pink,Super stoked,Awful,3,Data Science,16,0.0,0.0,5.0,F
+student 125,Orange,Very excited,Meh,4,Data Science,16,0.0,1.0,2.5,M
+student 126,Red,Very excited,Bad,3,Engineering,20,1.0,2.0,4.0,M
+student 127,Purple,Slightly excited,Meh,4,Biological Sciences,16,0.0,0.5,4.0,F
+student 128,white,Slightly excited,Pretty good,2,Data Science,16,0.0,3.0,1.0,M
+student 129,black,Very excited,Pretty good,3,Engineering,16,1.0,1.0,3.0,M
+student 130,Red,Very excited,Meh,3,Physical Sciences,16,2.0,1.0,1.0,F
+student 131,pink,Very excited,Meh,3,Physical Sciences,16,4.0,1.0,4.0,M
+student 132,Blue,Slightly excited,Meh,4,Physical Sciences,12,0.25,1.0,3.0,F
+student 133,purple,Slightly excited,Meh,3,Data Science,12,0.0,0.0,3.0,F
+student 134,Blue,Slightly excited,Meh,3,Data Science,16,1.0,4.0,1.0,M
+student 135,pink,Slightly excited,Awful,3,Data Science,16,1.0,2.0,3.0,M
+student 136,Pink,Very excited,Meh,2,Data Science,18,0.0,1.0,3.0,M
+student 137,Black,Super stoked,Meh,4,Physical Sciences,12,1.0,2.0,4.0,M
+student 138,Black,Very excited,Meh,4,Engineering,20,0.5,1.0,8.0,F
+student 139,Blue,Not at all excited,Meh,2,Data Science,16,0.0,0.5,4.0,F
+student 140,Purple,Slightly excited,Meh,4,Data Science,16,0.5,0.5,2.0,M
+student 141,Blue,Slightly excited,Pretty good,3,Biological Sciences,12,2.0,0.5,2.0,F
+student 142,Blue,Very excited,Pretty good,3,Data Science,16,0.0,2.0,2.0,M
+student 143,Purple,Slightly excited,Pretty good,3,Physical Sciences,22,0.0,2.0,3.0,F
+student 144,Green,Very excited,Meh,2,Physical Sciences,14,1.0,0.5,5.0,F
+student 145,Blue,Very excited,Meh,4,Biological Sciences,14,1.0,1.07,2.5,M
+student 146,green,Very excited,Pretty good,4,Social Sciences,4,30.0,1.0,5.0,F
+student 147,Purple,Slightly excited,Meh,3,Data Science,12,0.0,0.0,4.0,F
+student 148,Blue,Very excited,Pretty good,4,Data Science,12,1.0,1.0,6.0,M
+student 149,Green,Very excited,Bad,4,Social Sciences,16,1.0,1.0,1.0,F
+student 150,pink,Slightly excited,Meh,4,Data Science,8,1.0,1.0,1.0,F
+student 151,Blue,Slightly excited,Meh,2,Data Science,16,0.5,0.5,2.0,M
+student 152,Blue,Slightly excited,Pretty good,3,Data Science,12,1.0,1.0,2.0,F
+student 153,Green,Super stoked,Meh,3,Data Science,16,1.0,1.0,1.0,
+student 154,Pink,Very excited,Awful,3,Data Science,16,2.0,2.0,7.0,F
+student 155,Green,Super stoked,Bad,4,Physical Sciences,22,1.0,1.0,2.0,M
+student 156,grey,Very excited,Pretty good,2,Data Science,16,0.0,1.0,3.0,M
+student 157,red,Very excited,Awful,3,Data Science,16,0.5,3.0,1.0,M
+student 158,yellow,Very excited,Super comfy,2,Social Sciences,24,0.0,0.5,4.0,F
+student 159,Green,Slightly excited,Pretty good,4,Physical Sciences,20,1.0,2.0,6.0,M
+student 160,Purple,Slightly excited,Pretty good,3,Arts & Humanities,16,0.5,2.0,3.0,M
+student 161,Aria,Super stoked,Super comfy,4,Data Science,20,0.0,5.0,1.0,M
+student 162,red,Slightly excited,Meh,2,Data Science,16,0.0,2.0,8.0,
+student 163,Blue,Very excited,Pretty good,3,Physical Sciences,29,0.0,0.0,6.0,F
+student 164,green,Slightly excited,Bad,3,Data Science,16,1.0,4.0,5.0,F
+student 165,grey,Slightly excited,Meh,2,Engineering,12,0.5,1.0,2.0,M
+student 166,Blue,Slightly excited,Pretty good,2,Data Science,12,1.0,1.0,48.0,M
+student 167,Purple,Slightly excited,Awful,4,Data Science,12,0.0,1.0,6.0,M
+student 168,,Very excited,Meh,3,Physical Sciences,16,4.0,1.0,2.0,M
+student 169,Purple,Slightly excited,Bad,3,Data Science,16,1.5,2.0,2.0,M
+student 170,Blue,Slightly excited,Bad,2,Data Science,16,1.0,1.0,6.0,F
+student 171,Blue,Very excited,Pretty good,4,Data Science,16,1.0,3.0,3.0,M
+student 172,Grey,Very excited,Pretty good,3,Data Science,20,0.0,0.0,3.0,F
+student 173,Green,Very excited,Bad,3,Data Science,20,2.0,1.0,2.0,M
+student 174,Blue,Very excited,Pretty good,3,Data Science,20,1.0,0.5,7.0,F
+student 175,Blue,Slightly excited,Meh,3,Data Science,16,0.0,1.0,3.0,M
+student 176,Yellow,Very excited,Pretty good,3,Physical Sciences,20,4.0,1.0,2.0,M
+student 177,Red,Slightly excited,Meh,3,Data Science,14,1.0,1.0,4.0,M
+student 178,Green,Not at all excited,Meh,>4,Physical Sciences,16,0.0,0.0,10.0,M
+student 179,black,Very excited,Meh,>4,Data Science,20,1.0,0.5,8.0,F
+student 180,blue/red,Very excited,Meh,4,Physical Sciences,16,0.5,0.5,2.5,M
+student 181,Lavender,Super stoked,Bad,3,Data Science,16,3.0,1.0,2.0,F
+student 182,Lavender,Super stoked,Meh,3,Data Science,16,3.0,1.0,2.0,F
+student 183,Green,Slightly excited,Meh,4,Physical Sciences,16,1.0,1.0,12.0,F
+student 184,Blue,Slightly excited,Meh,4,Social Sciences,12,0.0,1.0,6.0,F
+student 185,Purple,Very excited,Meh,4,Physical Sciences,16,1.0,3.0,4.0,M
+student 186,Orange,Slightly excited,Meh,4,Data Science,12,0.5,0.5,5.0,M
+student 187,Blue,Super stoked,Bad,3,Engineering,20,0.0,2.0,3.0,M
+student 188,Blue,Slightly excited,Meh,3,Data Science,20,0.0,1.0,5.0,F
+student 189,Black,Very excited,Super comfy,3,Social Sciences,24,0.0,2.0,6.0,F
+student 190,Sapphire,Slightly excited,Meh,3,Data Science,16,0.5,1.5,3.0,M
+student 191,magenta,Slightly excited,Meh,4,Engineering,20,2.0,2.0,5.0,F
+student 192,Green,Very excited,Meh,2,Data Science,16,0.0,1.0,2.0,M
+student 193,Sky Blue,Slightly excited,Meh,3,Data Science,20,0.0,2.0,2.0,F
+student 194,Blue,Slightly excited,Meh,4,Data Science,12,1.0,2.0,1.5,M
+student 195,red,Very excited,Meh,3,Social Sciences,16,0.0,1.5,3.0,F
+student 196,Red,Very excited,Meh,3,Data Science,18,1.0,1.0,4.0,M
+student 197,Blue,Very excited,Meh,4,Data Science,12,1.0,2.0,1.0,M
+student 198,blue/red,Very excited,Meh,4,Physical Sciences,16,0.5,0.5,2.0,M
+student 199,purple,Slightly excited,Pretty good,4,Health Sciences,26,0.0,1.5,3.0,F
+student 200,Blue,Very excited,Bad,3,Arts & Humanities,16,1.0,1.0,2.0,F
+student 201,Light green,Very excited,Pretty good,3,Data Science,20,0.5,0.5,2.0,F
+student 202,Cornflower Blue,Super stoked,Meh,4,Physical Sciences,12,2.0,0.0,4.0,M
+student 203,purple,Very excited,Pretty good,3,Engineering,16,1.0,1.0,4.0,F
+student 204,Pink,Super stoked,Super comfy,3,Data Science,20,4.0,1.0,1.0,F
+student 205,purple,Super stoked,Meh,3,Social Sciences,16,0.0,0.0,5.0,F
+student 206,white,Very excited,Meh,4,Data Science,12,0.0,1.0,10.0,M
+student 207,black,Slightly excited,Meh,3,Engineering,20,0.0,24.0,0.0,M
+student 208,Yellow,Very excited,Meh,2,Data Science,20,1.0,0.5,2.0,F
+student 209,black,Very excited,Bad,4,Engineering,20,1.5,0.5,2.0,M
+student 210,green,Slightly excited,,3,Data Science,16,1.0,4.0,5.0,F
+student 211,green,Very excited,Pretty good,3,Biological Sciences,20,4.0,1.0,2.0,M
+student 212,pink,Very excited,Meh,4,Engineering,12,0.0,1.0,2.0,F
+student 213,Blue,Very excited,Pretty good,3,Physical Sciences,16,1.0,2.0,3.0,F
+student 214,Blue,Very excited,Meh,3,Data Science,12,0.0,2.0,8.0,M
+student 215,Blue,Very excited,Pretty good,4,Physical Sciences,16,7.0,10.0,10.0,M
+student 216,Blue,Very excited,Meh,4,Biological Sciences,30,0.5,0.5,1.5,M
+student 217,I don't know,Super stoked,Pretty good,4,Physical Sciences,14,0.0,2.0,4.0,M
+student 218,Blue,Super stoked,Meh,3,Data Science,12,0.0,2.0,4.0,M
+student 219,sky blue,Slightly excited,Pretty good,2,Data Science,12,1.0,1.0,48.0,M
+student 220,Blue,Not at all excited,Meh,2,Data Science,16,0.0,0.5,3.0,F
+student 221,black,Slightly excited,Pretty good,3,Social Sciences,16,1.0,1.0,4.0,F
+student 222,Black,Very excited,Meh,4,Engineering,24,1.0,0.5,1.0,F
+student 223,Black,Very excited,Pretty good,3,Data Science,20,0.0,3.0,2.5,M
+student 224,Blue,Slightly excited,Meh,4,Social Sciences,12,0.0,1.0,6.0,F
+student 225,Blue,Slightly excited,Meh,3,Social Sciences,17,0.0,2.0,2.0,F
+student 226,Blue,Very excited,Meh,3,Data Science,16,1.0,0.0,2.0,F
+student 227,purple,Very excited,Meh,4,Physical Sciences,16,2.0,3.0,3.0,M
+student 228,green,Slightly excited,Pretty good,3,Data Science,20,0.0,1.0,4.0,M
+student 229,Blue,Very excited,Pretty good,4,Engineering,20,2.0,2.0,1.0,M
+student 230,purple,Slightly excited,Meh,3,Data Science,18,0.0,1.0,3.0,F
+student 231,Red,Slightly excited,Meh,2,Data Science,16,0.0,3.0,8.0,
+student 232,Orange,Very excited,Meh,4,Data Science,16,0.0,1.5,2.5,M
+student 233,Black,Very excited,Meh,3,Data Science,20,2.0,1.0,3.0,F
+student 234,Baby blue,Very excited,Pretty good,3,Engineering,12,10.0,0.5,3.0,F
+student 235,Orange,Slightly excited,Bad,3,Data Science,16,0.0,2.0,4.0,M
+student 236,pink,Not at all excited,Meh,4,Data Science,16,1.0,0.5,2.0,M
+student 237,cornsilk,Not at all excited,Meh,4,Engineering,20,1.0,3.0,2.0,M
+student 238,Red,Not at all excited,Meh,3,Data Science,16,1.0,2.0,2.0,M
+student 239,Red,Slightly excited,Meh,3,Data Science,14,1.0,1.0,5.0,M
+student 240,Blue but I'm a fan of teal,Super stoked,Meh,4,Physical Sciences,12,0.0,2.0,6.0,M
+student 241,pink,Slightly excited,Bad,2,Data Science,12,0.0,0.0,5.0,F
+student 242,Blue,Slightly excited,Meh,4,Social Sciences,12,1.0,1.0,3.0,F
+student 243,1,Very excited,Pretty good,2,Data Science,20,5.0,5.0,5.0,M
+student 244,Blue,Super stoked,Pretty good,3,Engineering,17,1.0,1.0,2.0,M
+student 245,pink,Super stoked,Meh,4,Social Sciences,24,0.0,2.0,10.0,F
+student 246,Coral,Not at all excited,Meh,3,Data Science,20,1.0,2.0,1.0,M
+student 247,Blue,Very excited,Pretty good,3,Data Science,16,0.5,0.5,4.0,F
+student 248,white,Very excited,Pretty good,3,Data Science,20,0.5,0.5,3.0,F
+student 249,Yellow,Slightly excited,Meh,3,Data Science,16,0.0,1.0,12.0,M
+student 250,pink,Slightly excited,Meh,4,Data Science,8,1.0,1.0,1.0,F
+student 251,red,Very excited,Meh,3,Social Sciences,4,0.0,1.5,3.0,F
+student 252,red,Super stoked,Meh,3,Engineering,20,1.0,2.0,3.0,M
+student 253,Blue,Slightly excited,Meh,3,Data Science,16,0.0,2.0,5.0,M
+student 254,green,Not at all excited,Meh,4,Data Science,16,1.0,1.0,5.0,M
+student 255,Green,Very excited,Bad,3,Data Science,16,0.0,3.0,3.0,M
+student 256,Green,Super stoked,Pretty good,4,Social Sciences,16,0.0,1.0,3.0,F
+student 257,white,Slightly excited,Pretty good,2,Data Science,16,0.0,3.0,1.0,M
+student 258,pink,Slightly excited,Awful,3,Social Sciences,16,0.0,4.0,6.0,F
+student 259,Blue,Very excited,Pretty good,3,Data Science,17,1.0,1.0,5.0,M
+student 260,Black,Very excited,Meh,2,Data Science,16,0.0,3.0,4.0,M
+student 261,Purple,Slightly excited,Meh,3,Data Science,12,0.0,0.0,4.0,F
+student 262,Orange,Very excited,Meh,3,Data Science,4,3.0,5.0,5.0,M
+student 263,pink,Very excited,Meh,4,Physical Sciences,12,0.0,0.5,8.0,F
+student 264,Yellow,Not at all excited,Meh,4,Arts & Humanities,12,0.0,1.0,3.0,M
+student 265,Pink,Super stoked,Pretty good,3,Data Science,18,0.75,1.0,4.0,M
+student 266,Yellow,Not at all excited,Meh,4,Physical Sciences,16,1.0,2.0,6.0,F
+student 267,Blue,Super stoked,Pretty good,3,Engineering,22,2.5,0.5,1.0,F
+student 268,Blue,Slightly excited,Meh,3,Data Science,20,0.0,1.0,10.0,F
+student 269,Clear,Super stoked,Meh,>4,Physical Sciences,20,0.0,0.5,5.0,M
+student 270,Green,Not at all excited,Pretty good,>4,Physical Sciences,16,0.0,0.0,12.0,M
+student 271,Green,Slightly excited,Pretty good,4,Physical Sciences,20,2.0,2.0,7.0,M
+student 272,Black,Slightly excited,Pretty good,3,Data Science,12,0.5,0.5,4.0,F
+student 273,Blue,Very excited,Pretty good,4,Social Sciences,20,1.5,0.5,2.0,F
+student 274,pastel blue,Very excited,Pretty good,3,Data Science,21,0.0,2.0,1.0,F
+student 275,Blue,Very excited,Meh,3,Engineering,20,0.0,2.0,4.0,M
